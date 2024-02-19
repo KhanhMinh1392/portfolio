@@ -9,12 +9,12 @@ const TAB_DATA: Array<{ title: string; id: string; content: ReactNode }> = [
     title: "Skills",
     id: "skills",
     content: (
-      <ul className="list-disc pl-2 columns-2">
+      <ul className="list-disc pl-2 columns-2 gap-y-2">
         <li>HTML/CSS</li>
         <li>Javascript (ES5/ES6)</li>
         <li>Typescript</li>
-        <li>React JS</li>
-        <li>Next JS</li>
+        <li>ReactJS</li>
+        <li>NextJS</li>
         <li>Redux Toolkit/ Thunk</li>
         <li>SCSS, Tailwind, MUI, Styled-components</li>
         <li>Jenkins-pipeline, Gitlab-Runner</li>
