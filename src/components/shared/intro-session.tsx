@@ -40,8 +40,9 @@ export default function IntroSession() {
             React, NextJS 14, Tailwind CSS, Shadcn UI, Vercel, Framer Motion.
           </p>
           <Link
-            href="/"
+            href="https://drive.google.com/file/d/1us41ysHM7M2Z2k6HLMh0YQXc_eWhLtcA/view?usp=drive_link"
             className="px-1 inline-block py-1 w-full sm:w-fit rounded-full text-white mt-3 hover:bg-blue-100"
+            target="_blank"
           >
             <span className="block bg-gradient-to-r from-indigo-800 from-40% to-blue-400 rounded-full px-5 py-2">
               Download CV

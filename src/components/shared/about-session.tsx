@@ -29,7 +29,7 @@ const TAB_DATA: Array<{ title: string; id: string; content: ReactNode }> = [
     id: "education",
     content: (
       <ul className="pl-2">
-        <li>Ho Chi Minh University Technology: (Sep 2018 - Dec 2022)
+        <li>Ho Chi Minh University Technology: <br /> (Sep 2018 - Dec 2022)
           <ul className="list-disc pl-4">
             <li>Major: Software Engineering</li>
             <li>Degree classification: Good</li>
